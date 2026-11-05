@@ -1,0 +1,29 @@
+# Build artifacts
+build/
+bin/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compilers output
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.pdb
+*.ilk
+
+# Virtual disk runtime state (generated at runtime)
+virtual_disk.bin
+fs_metadata.bin
+
+# IDE / Editor configuration
+.vscode/
+.vs/
+.idea/
+*.user
+*.suo
